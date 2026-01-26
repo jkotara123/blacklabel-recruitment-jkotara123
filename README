@@ -1,0 +1,61 @@
+# Zadanie rekrutacyjne — Data Visualization (Frontend)
+
+## Kontekst
+Dane w pliku `data.json` pochodzą z platformy **e-commerce** i zawierają informacje o zamówieniach, m.in.:
+- czas,
+- lokalizację (kraj, miasto, dane geograficzne),
+- kategorie produktów,
+- ilości,
+- ceny,
+- dodatkowe metadane (płatność, typ klienta, urządzenie, czas dostawy).
+
+Twoim celem jest **zrozumienie danych**, wybranie **kluczowych informacji** i przedstawienie ich w **czytelnej, sensownej formie wizualnej**.
+
+
+## Zadanie
+
+Przeanalizuj dane i:
+- zdecyduj, które pola są istotne,
+- agreguj dane w sposób, który uznasz za sensowny,
+- oczyść dane tam, gdzie jest to potrzebne  
+  (np. niespójności nazw, różne skale wartości).
+
+Przygotuj **maksymalnie 3 wykresy + 1 mapę**.
+
+- samodzielnie zdecyduj, **jakie wizualizacje** przygotujesz,
+- nie narzucamy konkretnych metryk ani podziałów,
+- zależy nam na **selekcji najważniejszych informacji**, nie na pokazaniu wszystkiego,
+- mapa powinna **wnieść realną informację** i pomagać w zrozumieniu danych przestrzennych,
+  a nie być wyłącznie elementem dekoracyjnym.
+
+## Opis rozwiązania
+Dodaj krótki opis README, w którym wyjaśnisz:
+- dlaczego wybrałeś/aś właśnie te wizualizacje,
+- jakie dane uznałeś/aś za kluczowe.
+
+
+## Technologia i uruchomienie
+
+- interesuje nas **wyłącznie wersja desktopowa** (brak wymagań dot. mobile),
+- **nie narzucamy tech stacku** (technologia nie jest kryterium oceny):
+  - framework: dowolny lub brak,
+  - biblioteki: **preferowane Highcharts**, ale mogą być inne
+
+
+### Uruchomienie projektu
+Dołącz **krótkie README**, w którym jasno opiszesz:
+- wymagania (np. Node, Python, serwer lokalny),
+- kroki potrzebne do uruchomienia projektu lokalnie,
+
+Projekt powinien dać się **łatwo uruchomić lokalnie** bez dodatkowych wyjaśnień.
+
+---
+
+## Czas
+
+Nie oczekujemy kompletnego produktu.  
+Interesuje nas:
+- sposób myślenia,
+- decyzje projektowe,
+- umiejętność pracy na danych,
+- czytelność wizualna.
