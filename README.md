@@ -23,11 +23,9 @@ Przygotuj **maksymalnie 3** wykresy.
 - nie narzucamy konkretnych metryk ani podziałów,
 - zależy nam na **selekcji najistotniejszych dla Ciebie informacji**, nie na pokazaniu wszystkiego.
 
-**Gotowe rozwiązanie wyślij na to repozytorium** (commit i push).
-
 
 ## Opis rozwiązania
-Pod spodem (w tym pliku README) dodaj opis, w którym wyjaśnisz:
+W Pull Requestcie dodaj opis, w którym wyjaśnisz:
 - jakie dane uznałeś/aś za kluczowe,
 - dlaczego wybrałeś/aś właśnie takie wizualizacje (typy wykresów).
 
@@ -40,7 +38,7 @@ Pod spodem (w tym pliku README) dodaj opis, w którym wyjaśnisz:
 
 
 ## Uruchomienie projektu
-Pod spodem (w tym pliku README) opisz wymagania (np. Node, Python, serwer lokalny) i kroki potrzebne do uruchomienia Twojego projektu.
+W Pull Requestcie opisz wymagania (np. Node, Python, serwer lokalny) i kroki przydatne dla nas do uruchomienia Twojego projektu.
 Projekt powinien być **łatwy do uruchomienia lokalnie** bez dodatkowych wyjaśnień.
 
 
@@ -50,7 +48,13 @@ Interesuje nas:
 - sposób myślenia,
 - decyzje projektowe,
 - umiejętność pracy na danych,
-- czytelność wizualna. Plus za fajny design.
+- czytelność wizualna. Duży plus za fajny design.
 Nie liczy się ilość/wielkość projektu, tylko jakość połączona z prostotą i umiejętność wytłumaczenia podejścia.
 
-Przewidujemy, że wykonanie zadania powinno zająć maksymalnie kilka godzin. Na rozwiazanie masz dokładnie 7 dni licząc od daty otrzymania tego zadania.
+Przewidujemy, że wykonanie zadania powinno zająć maksymalnie kilka godzin.
+Na rozwiazanie masz dokładnie 7 dni licząc od daty otrzymania tego zadania (otrzymania na maila zaproszenia do repozytorium).
+
+
+## Jak wysłać rozwiązanie
+Gotowe rozwiązanie wyślij w formie Pull Requesta w tym repozytorium i oznacz do review jako "Reviewers": raf18seb, karolkolodziej, ddragula.
+Repozytorium jest prywatne.
