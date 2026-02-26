@@ -75,9 +75,9 @@ Dane dzieliłem na państwa, a przy odpowiednim przybliżeniu jeden krajowy bąb
 1. Sklonuj repozytorium
 
 ```
-git clone https://github.com/jkotara123/blacklabel-recruitment-task.git
+git clone https://github.com/jkotara123/blacklabel-recruitment-jkotara123.git
 
-cd blacklabel-recruitment-task/ecommerce-dashboard
+cd blacklabel-recruitment-jkotara123/ecommerce-dashboard
 ```
 
 2. Zainstaluj zależności
